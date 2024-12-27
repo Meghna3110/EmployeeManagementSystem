@@ -1,0 +1,75 @@
+# Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Oo]ut/
+bin/
+obj/
+AppPackages/
+*.log
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+TestResults/
+
+# Rider
+.idea/
+*.sln.iml
+*.sln.DotSettings.user
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.swp
+*.bak
+*.tmp
+*.temp
+*.DS_Store
+*.class
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# JetBrains Rider
+.idea/
+*.idea/**
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# File system logs
+*.log
+
+# Application Insights
+*.ai.json
+
+# Resharper
+*.DotSettings.user
+
+# DotNet Test Results
+TestResults/
+
+# Publish artifacts
+publish/
